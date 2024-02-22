@@ -1,0 +1,22 @@
+INFO 2024-02-22 21:33:43,139 views 10016 9080 This is Demo info log
+ERROR 2024-02-22 21:41:09,007 views 16252 17696 This is Demo error log
+ERROR 2024-02-22 21:43:16,251 views 15308 5572 This is Demo error log
+ERROR 2024-02-22 21:44:31,489 views 18984 17552 This is Demo error log
+ERROR 2024-02-22 21:44:49,792 views 18984 17552 This is Demo error log
+INFO 2024-02-22 21:45:00,749 views 18984 17552 This is Demo info log
+INFO 2024-02-22 21:47:15,152 views 16332 17212 This is Demo info log
+ERROR 2024-02-22 21:47:15,153 views 16332 17212 This is Demo error log
+INFO 2024-02-22 21:48:03,343 views 11252 9760 This is Demo info log
+ERROR 2024-02-22 21:48:03,343 views 11252 9760 This is Demo error log
+INFO 2024-02-22 21:48:56,895 views 19200 18900 This is Demo info log
+ERROR 2024-02-22 21:48:56,897 views 19200 18900 This is Demo error log
+INFO 2024-02-22 21:50:46,917 views 2300 19036 This is Demo info log
+INFO 2024-02-22 21:51:53,664 views 17700 12560 This is Demo info log
+ERROR 2024-02-22 21:51:53,665 views 17700 12560 This is Demo error log
+INFO 2024-02-22 21:54:00,425 views 11224 380 This is Demo info log
+INFO 2024-02-22 21:54:29,069 views 11224 380 This is Demo info log
+INFO 2024-02-22 21:54:36,270 views 11224 380 This is Demo info log
+INFO 2024-02-22 21:54:48,240 views 11224 380 This is Demo info log
+INFO 2024-02-22 21:54:55,521 views 11224 380 This is Demo info log
+INFO 2024-02-22 22:21:16,241 views 13196 8480 User Created SuccesFully
+INFO 2024-02-22 22:23:37,413 views 16356 15936 Products Fetch SuccesFully
